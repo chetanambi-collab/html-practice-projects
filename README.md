@@ -1,6 +1,6 @@
 # html-practice-projects
 My HTML learning projects (audio, video, semantic tags)
-# HTML Practice Projects 🚀
+# HTML Practice Projects 
 
 This repository contains my HTML learning projects.
 
@@ -9,7 +9,7 @@ This repository contains my HTML learning projects.
 1. Profile Page   
 2. Portfolio  
 
-## 💡 What I Learned
+##  What I Learned
 - Semantic HTML
 - Audio & Video tags
 - Page structuring
