@@ -8,7 +8,7 @@ This repository contains my HTML learning projects.
 
 1. Profile Page   
 2. Portfolio
-3. Login form  
+3. Login page 
 
 ##  What I Learned
 - Semantic HTML
